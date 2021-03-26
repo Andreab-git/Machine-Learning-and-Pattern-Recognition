@@ -1,5 +1,5 @@
 # Machine-Learning-and-Pattern-Recognition
-Machine Learning laboratory at the polytechnic of turin @Polito AY20/21
+Machine Learning laboratory at the Polytechnic of Turin @Polito AY20/21
 
 ## Requirements 
 - [![versions](https://img.shields.io/pypi/v/numpy?color=green&label=numpy)](https://pypi.org/project/numpy/)
